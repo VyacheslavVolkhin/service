@@ -9173,6 +9173,25 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 .dropdown-result-box .resutl-section-wrap {
   display: block;
 }
+.dropdown-result-box .result-list {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 20px;
+  color: #1E1F25;
+  font-weight: 500;
+}
+.dropdown-result-box .result-list a {
+  display: block;
+  padding: 12px 16px;
+  color: inherit;
+  transition: all ease 0.2s;
+}
+.dropdown-result-box .result-list a:hover,
+.dropdown-result-box .result-list a.active {
+  background-color: #f4f4f4;
+  color: #6B48F5;
+}
 .dropdown-result-box .result-title-wrap {
   display: -ms-flexbox;
   display: flex;
@@ -9355,6 +9374,64 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   right: auto;
   margin-top: -15px;
   margin-left: 2px;
+}
+.popup-box.popup-second.popup-city {
+  width: 620px;
+  border-radius: 24px;
+}
+.popup-box.popup-second.popup-city .popup-title-wrap {
+  padding: 32px 32px 24px 32px;
+}
+.popup-box.popup-second.popup-city .popup-content-wrap {
+  padding: 0 32px 32px 32px;
+}
+.popup-box.popup-second .dropdown-result-box .result-inner-wrap {
+  max-height: 240px;
+}
+.popup-box.popup-second .frm-main-search {
+  position: relative;
+  margin-bottom: 18px;
+}
+.popup-box.popup-second .frm-main-search:before {
+  content: "";
+  display: block;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  background: url(../img/icons/search-button.svg) center no-repeat;
+  background-size: 100% auto;
+  top: 50%;
+  left: 16px;
+  margin-top: -12px;
+  pointer-events: none;
+  z-index: 2;
+  filter: brightness(0) grayscale(1);
+  opacity: 0.4;
+}
+.popup-box.popup-second .frm-main-search .form-input {
+  background: #FFFFFF;
+  border: 1px solid #DBDBDB;
+  border-radius: 12px;
+  height: 48px;
+  padding: 0 10px 0 48px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.popup-box.popup-second .frm-main-search [placeholder]::-webkit-input-placeholder {
+  color: #989EAA;
+}
+.popup-box.popup-second .frm-main-search [placeholder]:-moz-placeholder {
+  color: #989EAA;
+}
+.popup-box.popup-second .frm-main-search [placeholder]::-moz-placeholder {
+  color: #989EAA;
+}
+.popup-box.popup-second .frm-main-search [placeholder]:-ms-input-placeholder {
+  color: #989EAA;
+}
+.popup-box.popup-second .frm-main-search button,
+.popup-box.popup-second .frm-main-search .ico-search {
+  display: none;
 }
 @media (max-width: 767px) {
   .h1-title {
@@ -9599,6 +9676,15 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   .item-tile-cat .tile-title {
     padding: 0;
     margin-top: 12px;
+  }
+  .popup-box.popup-second .popup-title {
+    font-size: 28px;
+    line-height: 33px;
+    letter-spacing: -0.01em;
+  }
+  .popup-box.popup-second .city-list-wrap {
+    font-size: 16px;
+    line-height: 20px;
   }
   .main-title-box .btn.button-second {
     height: 44px;

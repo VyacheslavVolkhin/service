@@ -8,13 +8,25 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_html/new-main.html" beforeDir="false" afterPath="$PROJECT_DIR$/_html/new-main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/headersecond.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/headersecond.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/popups.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/popups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compare.html" beforeDir="false" afterPath="$PROJECT_DIR$/compare.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/less/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/less/style.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favorites.html" beforeDir="false" afterPath="$PROJECT_DIR$/favorites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lk01.html" beforeDir="false" afterPath="$PROJECT_DIR$/lk01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lk02.html" beforeDir="false" afterPath="$PROJECT_DIR$/lk02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-main.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-out.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-out.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thanks.html" beforeDir="false" afterPath="$PROJECT_DIR$/thanks.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +136,7 @@
       <workItem from="1633686592241" duration="61000" />
       <workItem from="1633686662911" duration="140000" />
       <workItem from="1677916790384" duration="1888000" />
-      <workItem from="1678021415089" duration="30212000" />
+      <workItem from="1678021415089" duration="33031000" />
     </task>
     <servers />
   </component>
